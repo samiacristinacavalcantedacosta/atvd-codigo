@@ -1,0 +1,34 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+
+.caixa-estrutura{
+
+    height: 500px;
+    width: 100%;
+    background-color: rgb(189, 113, 204);
+}
+.card{
+height: 400px;
+width: 300px;
+background-color: bisque;
+}
+.produtos{
+height: 250px;
+width: 290px;
+
+}
+.descricao{
+height: 150px;
+width: 290px;
+
+}
+.produto-img{
+height: 300px;
+width: 300px;
+}
+.texto{
+    font-size: 12px;
+}
